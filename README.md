@@ -1,5 +1,7 @@
-## Olá! Eu sou o Leonardo🖐️
+## Olá! Eu sou o Leonardo 🖐️
 
+## 🚀 Sobre mim
+Transformo ideias em código desde os 15 anos. Hoje, aos 16, busco constantemente aprender e aprimorar minhas habilidades. Meu objetivo é contribuir para projetos desafiadores, colaborar com profissionais experientes e evoluir como desenvolvedor na área de tecnologia.
 
 ## Tecnologias que eu uso no meu dia
 
@@ -11,11 +13,10 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor Web | HTML, CSS, JavaScript, React, Node.js | Apaixonado por criar projetos práticos e aprender sempre.
+### 📄 Links
+- [Linkedin](https://www.linkedin.com/in/leonardo-freires)<br/>
 
-### Últimos videos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+## 📱 Contato
+
+- [Email] leos13790@gmail.com
 
