@@ -18,5 +18,5 @@ Transformo ideias em código desde os 15 anos. Hoje, aos 16, busco constantement
 
 ## 📱 Contato
 
-- [Email] leos13790@gmail.com
+- Email: leos13790@gmail.com
 
